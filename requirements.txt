@@ -14,5 +14,5 @@ bitsandbytes==0.39.1
 tensorboard
 absl-py
 ml-collections
-git+https://github.com/shiertier/waifuset2.git
+# git+https://github.com/shiertier/waifuset2.git
 # lion_pytorch
